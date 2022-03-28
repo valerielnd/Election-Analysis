@@ -35,7 +35,7 @@ The analysis of the election shows that:
 	
 ## Additional analysis
 
-The election has requested that we compute some additional data to complete the audit:
+The election committee has requested that we compute some additional data to complete the audit:
 
 1. The voter turnout for each county
 2. The percentage of votes from each county out of the total count
