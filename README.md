@@ -55,7 +55,8 @@ The analysis for the counties show that:
 - The largest county turnout was Denver with Arapahoe
 
 The election results can be viewed in the output file [election_results.txt](https://github.com/valerielnd/Election-Analysis/blob/main/analysis/election_analysis.txt)
-[elections_results]
+
+![elections_results](https://github.com/valerielnd/Election-Analysis/blob/main/election_results.png)
 # Summary
 As the audit of the congressional election in Colorado was successful, the code
 we wrote can be used to audit senatorial districts and local elections. 
